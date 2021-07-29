@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:aob_sessionreporting:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aob_sessionreporting/build/.transforms/b3b7236b28eb392a2c0483d51c4af694/jetified-aob_sessionreporting/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/aob_sessionreporting/build/.transforms/b3b7236b28eb392a2c0483d51c4af694/jetified-aob_sessionreporting/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

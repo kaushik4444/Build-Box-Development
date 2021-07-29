@@ -1,0 +1,7 @@
+#Mon Apr 13 19:40:55 CEST 2020
+base.0=D\:\\Education\\BuildBoxGames\\3d RUn game2.0\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Education\\BuildBoxGames\\3d RUn game2.0\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes2.dex

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_consent.xml.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\layout\\consent.xml"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_consent_detail.xml.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\layout\\fragment_consent_detail.xml"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spacer.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable\\spacer.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_consent_top_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable\\consent_top_icon.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_consent_item.xml.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\layout\\consent_item.xml"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "D:\\Education\\BuildBoxGames\\CubeGame Android\\android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

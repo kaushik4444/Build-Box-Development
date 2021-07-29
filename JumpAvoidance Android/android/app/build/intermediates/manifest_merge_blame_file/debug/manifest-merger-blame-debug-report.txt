@@ -1,0 +1,156 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="jumpAvoidance.com"
+4    android:versionCode="0"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml
+10
+11    <supports-screens
+11-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:75:5-78:39
+12        android:anyDensity="true"
+12-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:77:9-34
+13        android:largeScreens="true"
+13-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:75:23-50
+14        android:normalScreens="true"
+14-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:78:9-37
+15        android:smallScreens="true" />
+15-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:76:9-36
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:80:5-67
+17-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:80:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:82:5-79
+18-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:82:22-76
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:83:5-75
+19-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:83:22-73
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:84:5-81
+20-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:84:22-78
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:85:5-81
+21-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:85:22-78
+22
+23    <application
+23-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:7:5-73:19
+24        android:name="androidx.multidex.MultiDexApplication"
+24-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:10:9-61
+25        android:allowBackup="true"
+25-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:9:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.1.0] C:\Users\KAUSHIK CHANDAPET\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@drawable/icon"
+28-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:8:9-38
+29        android:label="@string/app_name"
+29-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:7:18-50
+30        android:testOnly="true" >
+31
+32        <!-- admob -->
+33        <!--
+34        <meta-data
+35            android:name="com.google.android.gms.ads.APPLICATION_ID"
+36            android:value="@string/admob_app_id"/>
+37        <meta-data
+38            android:name="com.google.android.gms.ads.DELAY_APP_MEASUREMENT_INIT"
+39            android:value="true"/>
+40        -->
+41        <!-- admob -->
+42
+43
+44        <!-- facebook-analytics -->
+45        <!--
+46        <meta-data
+47            android:name="com.facebook.sdk.ApplicationId"
+48            android:value="@string/facebook_app_id"/>
+49        <meta-data
+50            android:name="com.facebook.sdk.AutoLogAppEventsEnabled"
+51            android:value="false"/>
+52        <meta-data
+53            android:name="com.facebook.sdk.AutoInitEnabled"
+54            android:value="false"/>
+55        <meta-data
+56            android:name="com.facebook.sdk.AdvertiserIDCollectionEnabled"
+57            android:value="false"/>
+58        -->
+59        <!-- facebook-analytics -->
+60
+61        <meta-data
+61-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:36:9-37:69
+62            android:name="com.google.android.gms.version"
+62-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:36:20-65
+63            android:value="@integer/google_play_services_version" />
+63-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:37:13-66
+64        <meta-data
+64-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:38:9-39:46
+65            android:name="com.google.android.gms.games.APP_ID"
+65-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:38:20-70
+66            android:value="@string/app_id" />
+66-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:39:13-43
+67
+68        <activity
+68-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:41:9-50:20
+69            android:name="jumpAvoidance.com.PTPlayer"
+69-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:41:19-43
+70            android:configChanges="orientation"
+70-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:45:13-48
+71            android:label="@string/app_name"
+71-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:42:13-45
+72            android:screenOrientation="landscape"
+72-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:43:13-50
+73            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+73-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:44:13-71
+74            <intent-filter>
+74-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:46:13-49:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:47:17-69
+75-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:47:25-66
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:48:17-77
+77-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:48:27-74
+78            </intent-filter>
+79        </activity>
+80        <activity
+80-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:52:9-55:20
+81            android:name="com.buildbox.consent.ConsentActivity"
+81-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:53:13-64
+82            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+82-->D:\Education\BuildBoxGames\JumpAvoidance Android\android\app\src\main\AndroidManifest.xml:54:13-69
+83        </activity>
+84
+85        <!-- ironsource -->
+86        <!--
+87        <activity
+88            android:name="com.ironsource.sdk.controller.ControllerActivity"
+89            android:configChanges="orientation|screenSize"
+90            android:hardwareAccelerated="true" />
+91        <activity
+92            android:name="com.ironsource.sdk.controller.InterstitialActivity"
+93            android:configChanges="orientation|screenSize"
+94            android:hardwareAccelerated="true"
+95            android:theme="@android:style/Theme.Translucent" />
+96        <activity
+97            android:name="com.ironsource.sdk.controller.OpenUrlActivity"
+98            android:configChanges="orientation|screenSize"
+99            android:hardwareAccelerated="true"
+100            android:theme="@android:style/Theme.Translucent" />
+101        -->
+102        <!-- ironsource -->
+103        <activity
+103-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\KAUSHIK CHANDAPET\.gradle\caches\transforms-2\files-2.1\045b8747f28bc0d62fc93a4a76e8a784\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+104            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+104-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\KAUSHIK CHANDAPET\.gradle\caches\transforms-2\files-2.1\045b8747f28bc0d62fc93a4a76e8a784\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\KAUSHIK CHANDAPET\.gradle\caches\transforms-2\files-2.1\045b8747f28bc0d62fc93a4a76e8a784\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+106-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\KAUSHIK CHANDAPET\.gradle\caches\transforms-2\files-2.1\045b8747f28bc0d62fc93a4a76e8a784\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+107    </application>
+108
+109</manifest>

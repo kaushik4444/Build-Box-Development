@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test Game 1.0</string>
+    <string name="app_id"></string>
+    <string name="no_to_all"><u>NO TO ALL</u></string>
+    <string name="consent_dialog_explanation_text">Do you consent to share your personal information with advertisers? We personalize your advertising experience using ad networks, and we track some basic in-game events for developer analytics. By giving your consent to this improved ad experience, you\'ll see more advertisements relevant to your interests.</string>
+    <string name="yes_to_all">YES TO ALL</string>
+    <string name="consent_to_targeted_advertising">CONSENT TO TARGETED ADVERTISING AND ANALYTICS?</string>
+    <string name="view_privacy_policy">Show more details</string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+    
+</resources>
